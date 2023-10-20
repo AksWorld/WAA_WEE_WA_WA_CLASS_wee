@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+}
+#header{
+    background-color: gold;
+    font-family: 'Oswald', sans-serif;
+}
+#Container
+{
+ background-color:rgb(166, 223, 80);
+ font-family: 'Poppins', sans-serif; 
+
+}
+img{
+    width: 50%;
+}
